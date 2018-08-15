@@ -21,17 +21,4 @@ function deepestChild(){
   
 }
 
-/*
-const target = document.querySelector('#nested .target');
-<span id="nested">
-</span>
-<a id="nested" class="target">
-        <ul class="target">
-          <a class="target">
-            <span class="target">
-              <div class="target">
-                1
-              </div>
-*/
-
 
